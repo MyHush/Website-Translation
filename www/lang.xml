@@ -42,6 +42,14 @@
 		<swedish>Funktioner</swedish>
 	</translation>
 
+	<translation id="roadmaplang">
+		<english>Road Map</english>
+		<spanish>Road Map</spanish>
+		<polish>Road Map</polish>
+		<portuguese>Road Map</portuguese>
+		<swedish>Road Map</swedish>
+	</translation>
+
 	<translation id="toolslang">
 		<english>Tools</english>
 		<spanish>Herramientas</spanish>
@@ -68,7 +76,7 @@
 
 	<translation id="faqlang">
 		<english>FAQ</english>
-		<spanish>Preguntas frecuentes</spanish>
+		<spanish>FAQs</spanish>
 		<polish>FAQ</polish>
 		<portuguese>FAQ</portuguese>
 		<swedish>FAQ</swedish>
@@ -484,6 +492,71 @@
 		<polish>Twoje płatności/transakcje są realizowane natychmiastowo.</polish>
 		<portuguese>Seus pagamentos / transações processadas instantaneamente.</portuguese>
 		<swedish>Your payments/transactions processed instantly.</swedish>
+	</translation>
+
+	<!-- Road Map -->
+	<translation id="roadmapbox1lang">
+		<english>Complete rebranding as HUSH.</english>
+		<spanish>Complete rebranding as HUSH.</spanish>
+		<polish>Complete rebranding as HUSH.</polish>
+		<portuguese>Complete rebranding as HUSH.</portuguese>
+		<swedish>Complete rebranding as HUSH.</swedish>
+	</translation>
+
+	<translation id="roadmapbox2lang">
+		<english>Windows installer.</english>
+		<spanish>Windows installer.</spanish>
+		<polish>Windows installer.</polish>
+		<portuguese>Windows installer.</portuguese>
+		<swedish>Windows installer.</swedish>
+	</translation>
+
+	<translation id="roadmapbox3lang">
+		<english>Get listed on additional exchanges.</english>
+		<spanish>Get listed on additional exchanges.</spanish>
+		<polish>Get listed on additional exchanges.</polish>
+		<portuguese>Get listed on additional exchanges.</portuguese>
+		<swedish>Get listed on additional exchanges.</swedish>
+	</translation>
+
+	<translation id="roadmapbox4lang">
+		<english>Standalone HUSH Messenger.</english>
+		<spanish>Standalone HUSH Messenger.</spanish>
+		<polish>Standalone HUSH Messenger.</polish>
+		<portuguese>Standalone HUSH Messenger.</portuguese>
+		<swedish>Standalone HUSH Messenger.</swedish>
+	</translation>
+
+	<translation id="roadmapbox5lang">
+		<english>Add IPFS integration for large messages and sending binary files.</english>
+		<spanish>Add IPFS integration for large messages and sending binary files.</spanish>
+		<polish>Add IPFS integration for large messages and sending binary files.</polish>
+		<portuguese>Add IPFS integration for large messages and sending binary files.</portuguese>
+		<swedish>Add IPFS integration for large messages and sending binary files.</swedish>
+	</translation>
+
+	<translation id="roadmapbox6lang">
+		<english>New lightweight client.</english>
+		<spanish>New lightweight client.</spanish>
+		<polish>New lightweight client.</polish>
+		<portuguese>New lightweight client.</portuguese>
+		<swedish>New lightweight client.</swedish>
+	</translation>
+
+	<translation id="roadmapbox7lang">
+		<english>Counterparty on HUSH - funding, assets and smart contracts.</english>
+		<spanish>Counterparty on HUSH - funding, assets and smart contracts.</spanish>
+		<polish>Counterparty on HUSH - funding, assets and smart contracts.</polish>
+		<portuguese>Counterparty on HUSH - funding, assets and smart contracts.</portuguese>
+		<swedish>Counterparty on HUSH - funding, assets and smart contracts.</swedish>
+	</translation>
+
+	<translation id="roadmapbox8lang">
+		<english>XCAT with Zcash.</english>
+		<spanish>XCAT with Zcash.</spanish>
+		<polish>XCAT with Zcash.</polish>
+		<portuguese>XCAT with Zcash.</portuguese>
+		<swedish>XCAT with Zcash.</swedish>
 	</translation>
 
 	<!-- Tools -->
