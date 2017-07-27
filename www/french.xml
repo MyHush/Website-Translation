@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<!-- Page Loader -->
+	<translation id="loaderlang">
+		<french>Chargement...</french>
+	</translation>
+
+	<!-- Menu -->
+	<translation id="homelang">
+		<french>Accueil</french>
+	</translation>
+
+	<translation id="aboutlang">
+		<french>À propos</french>
+	</translation>
+
+	<translation id="benefitslang">
+		<french>Avantages</french>
+	</translation>
+
+	<translation id="featureslang">
+		<french>Caractéristiques</french>
+	</translation>
+
+	<translation id="roadmaplang">
+		<french>Roadmap</french>
+	</translation>
+
+	<translation id="toolslang">
+		<french>Outils</french>
+	</translation>
+
+	<translation id="gethushlang">
+		<french>Obtenir Hush</french>
+	</translation>
+
+	<translation id="teamlang">
+		<french>L'Équipe</french>
+	</translation>
+
+	<translation id="faqlang">
+		<french>FAQ</french>
+	</translation>
+
+	<translation id="contactlang">
+		<french>Nous contacter</french>
+	</translation>
+
+	<translation id="trlang">
+		<french>Langue</french>
+	</translation>
+
+	<!-- Home -->
+	<translation id="hometitlelang">
+		<french>Développé par la communauté, pour la communauté</french>
+	</translation>
+
+	<!-- About -->
+	<translation id="sat1lang">
+		<french>Qu'est-ce que HUSH ?</french>
+	</translation>
+
+	<translation id="sal1lang">
+		<french>Hush est une implémentation du protocole "Zerocash" qui est un dérivé de [Zcash]</french>
+	</translation>
+
+	<translation id="sal2lang">
+		<french>Basé sur le code du Bitcoin, notre but est d'offrir un maximum de confidentialité grace à un système sophistiqué basé sur un système de 'zero-knowledge' qui préserve la confidentialité des transactions metadata.</french>
+	</translation>
+
+	<translation id="sat2lang">
+		<french>Lancement vérifié de Hush</french>
+	</translation>
+
+	<translation id="sal3lang">
+		<french>Le lancement vérifié suit le même processus qu'indiqué par l'équipe Zcash. Nous n'avons aucune clé pour créer des coins depuis le néant.</french>
+	</translation>
+
+	<translation id="sal4lang">
+		<french>Zcash a tenu une cérémonie durant laquelle les individus possédants des morceaux de la clé privé les ont détruit.</french>
+	</translation>
+
+	<translation id="sat3lang">
+		<french>Pourquoi HUSH?</french>
+	</translation>
+
+	<translation id="sal5lang">
+		<french>Nous croyons qu'il n'y a pas assez de devises pour lesquelles l'équipe de développement est à l'écoute de la communauté, où l'équipe de développement est ouverte aux suggestions et discussions.</french>
+	</translation>
+
+	<translation id="sal6lang">
+		<french>Voilà pourquoi nous croyons que Hush peut être une devise à succès sur le long terme grace à la communication entre la communauté et les développeurs.</french>
+	</translation>
+
+	<translation id="sal7lang">
+		<french>Nous considérerons toujours vos avis et idées si elles sont utiles à Hush en tant que devise et en tant que communauté.</french>
+	</translation>
+
+	<translation id="sal8lang">
+		<french>Les cryptomonnaies sont décentralisées par rapport aux gouvernements, mais si la la communauté ne peut prendre part à aucune décision, est-ce réellement décentralisé?</french>
+	</translation>
+
+	<translation id="sal9lang">
+		<french>Avec Hush votre voix importera toujours, vos contributions sont toujours appréciées et nous sommes toujours reconnaissants quel que soit le type de support.</french>
+	</translation>
+
+	<translation id="sastlang">
+		<french>Spécificités</french>
+	</translation>
+
+	<translation id="sas1llang">
+		<french>Algorithme</french>
+	</translation>
+
+	<translation id="sas2llang">
+		<french>Block Time</french>
+	</translation>
+
+	<translation id="sas3llang">
+		<french>Récompense de Block</french>
+	</translation>
+
+	<translation id="sas4llang">
+		<french>Ajustement de la Difficulté</french>
+	</translation>
+
+	<translation id="sas5llang">
+		<french>Réduction de moitié de la récompense</french>
+	</translation>
+
+	<translation id="sas6llang">
+		<french>Supply total de la Monnaie</french>
+	</translation>
+
+	<translation id="sas7llang">
+		<french>Récompense des fondateurs</french>
+	</translation>
+
+	<translation id="sas8llang">
+		<french>Premine</french>
+	</translation>
+
+	<translation id="sas9llang">
+		<french>P2P Port</french>
+	</translation>
+
+	<translation id="sas10llang">
+		<french>RPC Port</french>
+	</translation>
+
+	<translation id="sas1rlang">
+		<french>Equihash</french>
+	</translation>
+
+	<translation id="sas2rlang">
+		<french>2.5 minutes</french>
+	</translation>
+
+	<translation id="sas3rlang">
+		<french>12.5 Hush (12.5 miner)</french>
+	</translation>
+
+	<translation id="sas4rlang">
+		<french>Chaque bloc, Digishield V3</french>
+	</translation>
+
+	<translation id="sas5rlang">
+		<french>Tous les 4 ans (identique au Bitcoin)</french>
+	</translation>
+
+	<translation id="sas6rlang">
+		<french>21,000,000 (identique au Bitcoin)</french>
+	</translation>
+
+	<translation id="sas7rlang">
+		<french>Supprimé.</french>
+	</translation>
+
+	<translation id="sas8rlang">
+		<french>0.578% (121475 Hush)</french>
+	</translation>
+
+	<translation id="sas9rlang">
+		<french>8888</french>
+	</translation>
+
+	<translation id="sas10rlang">
+		<french>8822</french>
+	</translation>
+
+	<!-- Benefits -->
+	<translation id="sbenefitsl1lang">
+		<french>Vous pouvez contribuer et faire partie des décisions.</french>
+	</translation>
+
+	<translation id="sbenefitsl2lang">
+		<french>Il y aura un progrès lent et régulier de la valeur et de la stabilité du développement.</french>
+	</translation>
+
+	<translation id="sbenefitsl3lang">
+		<french>Grace à un petit premine et une équipe de développement dédiée, les finances ne devraient pas être un problème.</french>
+	</translation>
+
+	<!-- Features -->
+	<translation id="sfeaturest1lang">
+		<french>Open Source</french>
+	</translation>
+
+	<translation id="sfeaturesl1lang">
+		<french>Vous pouvez examiner, commenter et proposer des mises à jour.</french>
+	</translation>
+
+	<translation id="sfeaturest2lang">
+		<french>Anonyme</french>
+	</translation>
+
+	<translation id="sfeaturesl2lang">
+		<french>Vos paiements &amp; transactions sont privés.</french>
+	</translation>
+
+	<translation id="sfeaturest3lang">
+		<french>Décentralisé</french>
+	</translation>
+
+	<translation id="sfeaturesl3lang">
+		<french>Utilise un réseau Peer to Peer.</french>
+	</translation>
+
+	<translation id="sfeaturest4lang">
+		<french>Sécurisé</french>
+	</translation>
+
+	<translation id="sfeaturesl4lang">
+		<french>Sécurité absolue, système d'encryptage avancé.</french>
+	</translation>
+
+	<translation id="sfeaturest5lang">
+		<french>A travers le monde</french>
+	</translation>
+
+	<translation id="sfeaturesl5lang">
+		<french>Envoyer de l'argent à n'importe qui dans le monde.</french>
+	</translation>
+
+	<translation id="sfeaturest6lang">
+		<french>Rapide</french>
+	</translation>
+
+	<translation id="sfeaturesl6lang">
+		<french>Vos payements/transactions s'effectuent instantanéments.</french>
+	</translation>
+
+	<!-- Road Map -->
+	<translation id="roadmapbox1lang">
+		<french>Rebranding en tant que HUSH.</french>
+	</translation>
+
+	<translation id="roadmapbox2lang">
+		<french>Installateur Windows.</french>
+	</translation>
+
+	<translation id="roadmapbox3lang">
+		<french>Enregistrement sur des échanges supplémentaires.</french>
+	</translation>
+
+	<translation id="roadmapbox4lang">
+		<french>Messagerie HUSH indépendante.</french>
+	</translation>
+
+	<translation id="roadmapbox5lang">
+		<french>Ajout d'une intégration IPFS pour les gros messages et l'envoi de fichiers binaires.</french>
+	</translation>
+
+	<translation id="roadmapbox6lang">
+		<french>Nouveau client plus léger.</french>
+	</translation>
+
+	<translation id="roadmapbox7lang">
+		<french>Counterparty sur HUSH - financements, actifs et smart contracts.</french>
+	</translation>
+
+	<translation id="roadmapbox8lang">
+		<french>XCAT avec Zcash.</french>
+	</translation>
+
+	<!-- Tools -->
+	<translation id="stoolst1lang">
+		<french>Portemonnaie Linux</french>
+	</translation>
+
+	<translation id="stoolst2lang">
+		<french>Portemonnaie Windows</french>
+	</translation>
+
+	<translation id="stoolst3lang">
+		<french>Portemonnaie Mac OS</french>
+	</translation>
+
+	<translation id="stoolst4lang">
+		<french>Portemonnaie Android</french>
+	</translation>
+
+	<translation id="stoolst5lang">
+		<french>Portemonnaie iOS</french>
+	</translation>
+
+	<translation id="stoolst6lang">
+		<french>Code Source</french>
+	</translation>
+
+	<translation id="stoolst7lang">
+		<french>Config Generator</french>
+	</translation>
+
+	<translation id="stoolst8lang">
+		<french>Block Explorer</french>
+	</translation>
+
+	<translation id="stoolst9lang">
+		<french>Charts sur Coin Market Cap</french>
+	</translation>
+
+	<translation id="stoolst10lang">
+		<french>Pack Media</french>
+	</translation>
+
+	<translation id="stdlang">
+		<french>Télécharger</french>
+	</translation>
+
+	<translation id="stsilang">
+		<french>Instructions d'installation</french>
+	</translation>
+
+	<translation id="stcslang">
+		<french>Coming soon!</french>
+	</translation>
+
+	<translation id="stnylang">
+		<french>Pas encore!</french>
+	</translation>
+
+	<!-- Get Hush -->
+	<translation id="sgethusht1lang">
+		<french>Acheter!</french>
+	</translation>
+
+	<translation id="sgethusht2lang">
+		<french>Miner!</french>
+	</translation>
+
+	<!-- Team -->
+	<translation id="teamtitlelang">
+		<french>Notre formidable équipe !</french>
+	</translation>
+
+	<translation id="steamt1lang">
+		<french>Fondateur &amp; Community Manager</french>
+	</translation>
+
+	<translation id="steamd1lang">
+		<french>Axel est un jeune homme de 22 ans, résidant à Stockholm en Suède, et travaillant dans la planification de chauffage urbain. Depuis ses 10 ans il a fait toute sorte de business, petits comme grands. Axel a rejoint la scène des cryptomonnaies pour la première fois en 2010-2011.</french>
+	</translation>
+
+	<translation id="steamt2lang">
+		<french>Lead Developer</french>
+	</translation>
+
+	<translation id="steamd2lang">
+		<french>David Mercer a étudié les maths et l'informatique à l'Université d'Arizona. Il a participé à la cryptographie financière pendant 15 ans et a plus de 20 ans de carrière dans les technologies de l'information. Il a mis en place les premiers ports de Zcash sur une plateforme non-linux. Il a contribué au design et au code du protocole zcash, et son expérience de la blockchain financière inclut des consultations pour NASDAQ, IslandECN, BofA et les trois plus grosses banques de Mexico.</french>
+	</translation>
+
+	<translation id="steamt3lang">
+		<french>Founder &amp; Développeur Web</french>
+	</translation>
+
+	<translation id="steamd3lang">
+		<french>Iolar a 29 ans, il excerce le métier de développeur front-end et fait du daytrade de cryptomonnaies depuis le Brésil. Il a plus de 15 années d'expériences dans le secteur du développement web et a travaillé dans nombre d'agences et entreprises notamment A Estrutural, Agrobovi, A Foco and Dual Studio.</french>
+	</translation>
+
+	<translation id="steamt4lang">
+		<french>Core Developer, Tooling et Forum</french>
+	</translation>
+
+	<translation id="steamd4lang">
+		<french>Matthew est un développeur full-stack web freelance et un amateur de cryptomonnaie de l'Illinois. Ses passions sont la sécurité et l'authentification, et le gaming (#PCMasterRace). Aujourd'hui il est cyber-analyste.</french>
+	</translation>
+
+	<!-- Contributors -->
+	<translation id="contributorstitlelang">
+		<french>Je veux contribuer !</french>
+	</translation>
+
+	<translation id="scontributorsl1lang">
+		<french>Les contributions de la communauté aident à garder Hush en vie. Pour contribuer, rejoignez nous sur notre slack, controlez nos dossiers Github.</french>
+	</translation>
+
+	<translation id="scontributorsl2lang">
+		<french>Les dons permettent de laisser les lumières et les serveurs allumés.</french>
+	</translation>
+
+	<!-- FAQ -->
+	<translation id="sfaqqt1lang">
+		<french>Pourquoi le 'premine'?</french>
+	</translation>
+
+	<translation id="sfaqa1lang">
+		<french>Parce que grace au premine nous avons une base financière sur laquelle nous reposer, nous serons aussi capable d'offrir des récompenses aux contributeurs pour leur aide.</french>
+	</translation>
+
+	<translation id="sfaqqt2lang">
+		<french>Est-il possible de suivre l'utilisation du premine?</french>
+	</translation>
+
+	<translation id="sfaqa2lang">
+		<french>Oui, l'adresse avec les coins préminés sera publique.</french>
+	</translation>
+
+	<translation id="sfaqqt3lang">
+		<french>Comment le développement progresse-il, comment puis-je le voir?</french>
+	</translation>
+
+	<translation id="sfaqa3c1lang">
+		<french>Rejoignez notre</french>
+	</translation>
+
+	<translation id="sfaqa3c2lang">
+		<french>ou</french>
+	</translation>
+
+	<translation id="sfaqa3c3lang">
+		<french>suivez notre</french>
+	</translation>
+
+	<translation id="sfaqa3c4lang">
+		<french>et</french>
+	</translation>
+
+	<translation id="sfaqa3c5lang">
+		<french>Autrement vous pouvez nous envoyer un message!</french>
+	</translation>
+
+	<translation id="sfaqqt4lang">
+		<french>Comment pouvons-nous aider?</french>
+	</translation>
+
+	<translation id="sfaqa4lang">
+		<french>Si vous voulez contribuer, contactez l'un d'entre nous et nous discuterons de vos idées et de comment vous pouvez contribuer.</french>
+	</translation>
+
+	<translation id="sfaqqt5lang">
+		<french>Comment peut-on vous contacter et vous demander quelque chose?</french>
+	</translation>
+
+	<translation id="sfc1lang">
+		<french>Remplissez ce</french>
+	</translation>
+
+	<translation id="sfc2lang">
+		<french>formulaire de contact</french>
+	</translation>
+
+	<translation id="sfc3lang">
+		<french>, oui vous pouvez poser des questions sur tout ce qui concerne Hush!</french>
+	</translation>
+
+	<!-- Contact -->
+	<translation id="contacttitlelang">
+		<french>Prenez contact avec nous!</french>
+	</translation>
+
+	<translation id="scl1llang">
+		<french>Laissez nous un message en remplissant le formulaire ci-dessous si vous voulez plus d'information sur le sujet, ou si vous avez une question sur nous.</french>
+	</translation>
+
+	<translation id="scl1rlang">
+		<french>(Nous répondrons aussi vite que possible.)</french>
+	</translation>
+
+	<translation id="scnamelang">
+		<french>Votre Nom</french>
+	</translation>
+
+	<translation id="scemaillang">
+		<french>Votre Mail</french>
+	</translation>
+
+	<translation id="scsubjectlang">
+		<french>Objet</french>
+	</translation>
+
+	<translation id="scmessagelang">
+		<french>Votre Message</french>
+	</translation>
+
+	<translation id="scsublang">
+		<french>Envoyer</french>
+	</translation>
+
+	<translation id="screqlang">
+		<french>(obligatoire)</french>
+	</translation>
+
+	<!-- Footer -->
+	<translation id="copylang">
+		<french>Hush. Tous droits réservés.</french>
+	</translation>
+</translations>

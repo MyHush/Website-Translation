@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<!-- Page Loader -->
+	<translation id="loaderlang">
+		<czech>Načítání...</czech>
+	</translation>
+
+	<!-- Menu -->
+	<translation id="homelang">
+		<czech>Domů</czech>
+	</translation>
+
+	<translation id="aboutlang">
+		<czech>O projektu</czech>
+	</translation>
+
+	<translation id="benefitslang">
+		<czech>Výhody</czech>
+	</translation>
+
+	<translation id="featureslang">
+		<czech>Vlastnosti</czech>
+	</translation>
+
+	<translation id="roadmaplang">
+		<czech>Plán vývoje</czech>
+	</translation>
+
+	<translation id="toolslang">
+		<czech>Nástroje</czech>
+	</translation>
+
+	<translation id="gethushlang">
+		<czech>Získat HUSH</czech>
+	</translation>
+
+	<translation id="teamlang">
+		<czech>Tým</czech>
+	</translation>
+
+	<translation id="faqlang">
+		<czech>FAQ</czech>
+	</translation>
+
+	<translation id="contactlang">
+		<czech>Kontakt</czech>
+	</translation>
+
+	<translation id="trlang">
+		<czech>Jazyk</czech>
+	</translation>
+
+	<!-- Home -->
+	<translation id="hometitlelang">
+		<czech>Vytvořený lidmi, pro lidi.</czech>
+	</translation>
+
+	<!-- About -->
+	<translation id="sat1lang">
+		<czech>Co je HUSH?</czech>
+	</translation>
+
+	<translation id="sal1lang">
+		<czech>Hush je soukromá implementace protokolu "Zerocash" jakožto odnož [Zcash].</czech>
+	</translation>
+
+	<translation id="sal2lang">
+		<czech>Je založen na kódu Bitcoinu ovšem s mnohem větší ochranou soukromí díky sofistikovanému potvrzovacímu systému zero-knowledge, který zachovává důvěrnost metadat transakce.</czech>
+	</translation>
+
+	<translation id="sat2lang">
+		<czech>Důvěryhodnost Hushe</czech>
+	</translation>
+
+	<translation id="sal3lang">
+		<czech>Důvěryhodnost Hushe je stejná jakou poskytuje tým Zcash. Garantujeme, že neexistuje jiný způsob vytvoření mince než skrze oficiální těžbu.</czech>
+	</translation>
+
+	<translation id="sal4lang">
+		<czech>Tým Zcash pořádal ceremonii, při které všichni vlastníci fragmentu soukromého klíče svůj kousek zničili.</czech>
+	</translation>
+
+	<translation id="sat3lang">
+		<czech>Proč HUSH?</czech>
+	</translation>
+
+	<translation id="sal5lang">
+		<czech>Jsme přesvědčeni, že trh postrádá měnu, kde vývojáři naslouchají komunitě a jsou otevřeni všem jejím podnětům a nápadům.</czech>
+	</translation>
+
+	<translation id="sal6lang">
+		<czech>Díky vzájemné spolupráci mezi vývojáři a komunitou věříme, že z dlouhodobého hlediska má Hush potenciál stát se velice úspěšnou měnou.</czech>
+	</translation>
+
+	<translation id="sal7lang">
+		<czech>Vždy budeme zvažovat všechny Vaše myšlenky a nápady, které budou přínosem pro Hush jako měnu i jako komunitu.</czech>
+	</translation>
+
+	<translation id="sal8lang">
+		<czech>Kryptoměny jsou decentralizované měny, nejsou tak pod vlivem žádné vlády. Ale jestliže se komunita nepodílí na žádném rozhodování, jsou opravdu decentralizované?</czech>
+	</translation>
+
+	<translation id="sal9lang">
+		<czech>Proto bude váš hlas vždy vyslyšen. Velmi si ceníme a jsme vděčni za veškerou pomoc.</czech>
+	</translation>
+
+	<translation id="sastlang">
+		<czech>Specifikace</czech>
+	</translation>
+
+	<translation id="sas1llang">
+		<czech>Algoritmus</czech>
+	</translation>
+
+	<translation id="sas2llang">
+		<czech>Doba Bloku</czech>
+	</translation>
+
+	<translation id="sas3llang">
+		<czech>Odměna za Blok</czech>
+	</translation>
+
+	<translation id="sas4llang">
+		<czech>Úprava obtížnosti</czech>
+	</translation>
+
+	<translation id="sas5llang">
+		<czech>Půlení odměny</czech>
+	</translation>
+
+	<translation id="sas6llang">
+		<czech>Celkový počet mincí</czech>
+	</translation>
+
+	<translation id="sas7llang">
+		<czech>Odměna zakladatelům</czech>
+	</translation>
+
+	<translation id="sas8llang">
+		<czech>Předtěženo</czech>
+	</translation>
+
+	<translation id="sas9llang">
+		<czech>P2P Port</czech>
+	</translation>
+
+	<translation id="sas10llang">
+		<czech>RPC Port</czech>
+	</translation>
+
+	<translation id="sas1rlang">
+		<czech>Equihash</czech>
+	</translation>
+
+	<translation id="sas2rlang">
+		<czech>2.5 minuty</czech>
+	</translation>
+
+	<translation id="sas3rlang">
+		<czech>12.5 Hushe (12.5 miner)</czech>
+	</translation>
+
+	<translation id="sas4rlang">
+		<czech>Každý Blok, Digishield V3</czech>
+	</translation>
+
+	<translation id="sas5rlang">
+		<czech>Každé 4 roky (stejně jako Bitcoin)</czech>
+	</translation>
+
+	<translation id="sas6rlang">
+		<czech>21,000,000 (stejně jako Bitcoin)</czech>
+	</translation>
+
+	<translation id="sas7rlang">
+		<czech>Odstraněna</czech>
+	</translation>
+
+	<translation id="sas8rlang">
+		<czech>0.578% (121475 Hushe)</czech>
+	</translation>
+
+	<translation id="sas9rlang">
+		<czech>8888</czech>
+	</translation>
+
+	<translation id="sas10rlang">
+		<czech>8822</czech>
+	</translation>
+
+	<!-- Benefits -->
+	<translation id="sbenefitsl1lang">
+		<czech>Můžete se podílet a být součástí rozhodování.</czech>
+	</translation>
+
+	<translation id="sbenefitsl2lang">
+		<czech>Nabízíme dlouhodobý a stabilní rozvoj měny Hush.</czech>
+	</translation>
+
+	<translation id="sbenefitsl3lang">
+		<czech>Díky malému množství předtěženého Hushe a odhodlanému týmu, nebude financování projektu problém.</czech>
+	</translation>
+
+	<!-- Features -->
+	<translation id="sfeaturest1lang">
+		<czech>Otevřený kód</czech>
+	</translation>
+
+	<translation id="sfeaturesl1lang">
+		<czech>Můžete nahlížet, komentovat a navrhovat úpravy.</czech>
+	</translation>
+
+	<translation id="sfeaturest2lang">
+		<czech>Anonymní</czech>
+	</translation>
+
+	<translation id="sfeaturesl2lang">
+		<czech>Vaše platby a transakce jsou plně soukromé.</czech>
+	</translation>
+
+	<translation id="sfeaturest3lang">
+		<czech>Decentralizovaný</czech>
+	</translation>
+
+	<translation id="sfeaturesl3lang">
+		<czech>Používá síť Peer to Peer.</czech>
+	</translation>
+
+	<translation id="sfeaturest4lang">
+		<czech>Bezpečný</czech>
+	</translation>
+
+	<translation id="sfeaturesl4lang">
+		<czech>Robustní zabezpečení s pokročilým šifrováním.</czech>
+	</translation>
+
+	<translation id="sfeaturest5lang">
+		<czech>Celosvětový</czech>
+	</translation>
+
+	<translation id="sfeaturesl5lang">
+		<czech>Posílejte peníze komukoliv, kamkoliv.</czech>
+	</translation>
+
+	<translation id="sfeaturest6lang">
+		<czech>Rychlý</czech>
+	</translation>
+
+	<translation id="sfeaturesl6lang">
+		<czech>Vaše platby/transakce jsou zpracovány okamžitě.</czech>
+	</translation>
+
+	<!-- Road Map -->
+	<translation id="roadmapbox1lang">
+		<czech>Kompletní rebranding na HUSH.</czech>
+	</translation>
+
+	<translation id="roadmapbox2lang">
+		<czech>Instalační program pro Windows.</czech>
+	</translation>
+
+	<translation id="roadmapbox3lang">
+		<czech>Obchodovat na více burzách.</czech>
+	</translation>
+
+	<translation id="roadmapbox4lang">
+		<czech>Samostatný Hush Messenger.</czech>
+	</translation>
+
+	<translation id="roadmapbox5lang">
+		<czech>Integrovat IPFS pro zprávy a posílání souborů.</czech>
+	</translation>
+
+	<translation id="roadmapbox6lang">
+		<czech>Nový jednoduchý klient.</czech>
+	</translation>
+
+	<translation id="roadmapbox7lang">
+		<czech>Counterparty pro HUSH - financování, aktiva a chytré kontrakty.</czech>
+	</translation>
+
+	<translation id="roadmapbox8lang">
+		<czech>XCAT se Zcash</czech>
+	</translation>
+
+	<!-- Tools -->
+	<translation id="stoolst1lang">
+		<czech>Linux peněženka</czech>
+	</translation>
+
+	<translation id="stoolst2lang">
+		<czech>Windows peněženka</czech>
+	</translation>
+
+	<translation id="stoolst3lang">
+		<czech>Mac OS peněženka</czech>
+	</translation>
+
+	<translation id="stoolst4lang">
+		<czech>Android peněženka</czech>
+	</translation>
+
+	<translation id="stoolst5lang">
+		<czech>iOS peněženka</czech>
+	</translation>
+
+	<translation id="stoolst6lang">
+		<czech>Zdrojový kód</czech>
+	</translation>
+
+	<translation id="stoolst7lang">
+		<czech>Config generátor</czech>
+	</translation>
+
+	<translation id="stoolst8lang">
+		<czech>Průzkumník Bloků</czech>
+	</translation>
+
+	<translation id="stoolst9lang">
+		<czech>Zobrazit na Coin Market Cap</czech>
+	</translation>
+
+	<translation id="stoolst10lang">
+		<czech>Balíček souborů</czech>
+	</translation>
+
+	<translation id="stdlang">
+		<czech>Stáhnout</czech>
+	</translation>
+
+	<translation id="stsilang">
+		<czech>Instrukce</czech>
+	</translation>
+
+	<translation id="stcslang">
+		<czech>Již brzy!</czech>
+	</translation>
+
+	<translation id="stnylang">
+		<czech>Zatím není!</czech>
+	</translation>
+
+	<!-- Get Hush -->
+	<translation id="sgethusht1lang">
+		<czech>Koupí!</czech>
+	</translation>
+
+	<translation id="sgethusht2lang">
+		<czech>Těžbou!</czech>
+	</translation>
+
+	<!-- Team -->
+	<translation id="teamtitlelang">
+		<czech>Náš úžasný tým!</czech>
+	</translation>
+
+	<translation id="steamt1lang">
+		<czech>Zakladatel a komunitní manažer</czech>
+	</translation>
+
+	<translation id="steamd1lang">
+		<czech>Axel je 22 letý návrhář rozvodů tepla ze švédského Stockholmu. Již od svých 10 let rozvíjí svého podnikatelského ducha malými i velkými byznysy. V kryptoměnách se pohybuje od roku 2010.</czech>
+	</translation>
+
+	<translation id="steamt2lang">
+		<czech>Vedoucí vývoje</czech>
+	</translation>
+
+	<translation id="steamd2lang">
+		<czech>David Mercer studoval matematiku a počítačové vědy na univerzitě v Arizoně. Finanční kryptografii se věnuje již 15 rokem ze své více než 20 leté kariéry v IT. Podílel se na návrhu protokolu Zcash a jeho základním kódu. Také udělal první port Zcash do nelinuxových platforem. Může se i pochlubit hlubokými zkušenostmi z bezpečnosti a poradenstvím například pro NASDAQ, IslandECN, BofA či pro 3 největší mexické banky.</czech>
+	</translation>
+
+	<translation id="steamt3lang">
+		<czech>Zakladatel a vývojář webu</czech>
+	</translation>
+
+	<translation id="steamd3lang">
+		<czech>Iolar je 29 letý front-end webový vývojář a denní obchodník s kryptoměnami z Brazílie. Má více než 15 let zkušeností z oblasti vývoje webu a pracoval v mnoha agenturách a společnostech jakožto A Extrutural, Agrobovi, A Foco nebo Dual Studio.</czech>
+	</translation>
+
+	<translation id="steamt4lang">
+		<czech>Vývojář jádra, nástrojů a fóra</czech>
+	</translation>
+
+	<translation id="steamd4lang">
+		<czech>Matthew je nezávislý všestraný full-stack vývojář webu a nadšenec do kryptoměn z Illinois. Mezi jeho koníčky patří bezpečnost, autentizace a samozřejmě gaming (#PCMasterRace). Živí se jako bezpečnostní analytik.</czech>
+	</translation>
+
+	<!-- Contributors -->
+	<translation id="contributorstitlelang">
+		<czech>Chci taky přispět!</czech>
+	</translation>
+
+	<translation id="scontributorsl1lang">
+		<czech>Nadšenci z komunity drží Hush při životě. Chcete-li se přidat, připojte se na náš Slack a prohlédněte si náš Github.</czech>
+	</translation>
+
+	<translation id="scontributorsl2lang">
+		<czech>Finanční příspěvky nám pomáhají zajistit hladký běh nejen serverů, ale platí se z nich i kapacita sítě či osvětlení.</czech>
+	</translation>
+
+	<!-- FAQ -->
+	<translation id="sfaqqt1lang">
+		<czech>Proč je část předtěžena?</czech>
+	</translation>
+
+	<translation id="sfaqa1lang">
+		<czech>Díky předem vytěženému Hushi máme finanční rezervu. Projekt je finančně zabezpečen a může si dovolit vyplácet odměny přispěvatelům.</czech>
+	</translation>
+
+	<translation id="sfaqqt2lang">
+		<czech>Je možné sledovat předtěžené mince?</czech>
+	</translation>
+
+	<translation id="sfaqa2lang">
+		<czech>Ano,  adresy s předem vytěženými mincemi jsou veřejně dostupné.</czech>
+	</translation>
+
+	<translation id="sfaqqt3lang">
+		<czech>Jak probíhá vývoj a kde se o něm dozvím více?</czech>
+	</translation>
+
+	<translation id="sfaqa3c1lang">
+		<czech>Připojte se na náš</czech>
+	</translation>
+
+	<translation id="sfaqa3c2lang">
+		<czech>nebo</czech>
+	</translation>
+
+	<translation id="sfaqa3c3lang">
+		<czech>sledujte náš</czech>
+	</translation>
+
+	<translation id="sfaqa3c4lang">
+		<czech>a</czech>
+	</translation>
+
+	<translation id="sfaqa3c5lang">
+		<czech>Popřípadě nám pošlete soukromou zprávu!</czech>
+	</translation>
+
+	<translation id="sfaqqt4lang">
+		<czech>Jak se můžu zapojit?</czech>
+	</translation>
+
+	<translation id="sfaqa4lang">
+		<czech>Chcete-li projektu jakkoliv přispět, kontaktujte kohokoliv z nás a určitě Vaše nápady prodiskutujeme.</czech>
+	</translation>
+
+	<translation id="sfaqqt5lang">
+		<czech>Jak vás můžeme kontaktovat?</czech>
+	</translation>
+
+	<translation id="sfc1lang">
+		<czech>Stačí vyplnit</czech>
+	</translation>
+
+	<translation id="sfc2lang">
+		<czech>kontaktní formulář</czech>
+	</translation>
+
+	<translation id="sfc3lang">
+		<czech>a můžete se zeptat na cokoliv co se Hushe týká!</czech>
+	</translation>
+
+	<!-- Contact -->
+	<translation id="contacttitlelang">
+		<czech>Napište nám!</czech>
+	</translation>
+
+	<translation id="scl1llang">
+		<czech>Chcete-li se dozvědět více informací, máte-li jakoukoliv otázku k projektu popřípadě jen vědět, co jsme měli k večeři, neváhejte nás kontaktovat.</czech>
+	</translation>
+
+	<translation id="scl1rlang">
+		<czech>(Jakmile to bude možné, ozveme se.)</czech>
+	</translation>
+
+	<translation id="scnamelang">
+		<czech>Vaše jméno</czech>
+	</translation>
+
+	<translation id="scemaillang">
+		<czech>Váš Email</czech>
+	</translation>
+
+	<translation id="scsubjectlang">
+		<czech>Předmět</czech>
+	</translation>
+
+	<translation id="scmessagelang">
+		<czech>Vaše zpráva</czech>
+	</translation>
+
+	<translation id="scsublang">
+		<czech>Odeslat</czech>
+	</translation>
+
+	<translation id="screqlang">
+		<czech>(požadováno)</czech>
+	</translation>
+
+	<!-- Footer -->
+	<translation id="copylang">
+		<czech>Hush. Všechna práva vyhrazena.</czech>
+	</translation>
+</translations>
