@@ -1,508 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <translations>
-	<!-- Page Loader -->
-	<translation id="loaderlang">
-		<bulgarian>Зарежда се...</bulgarian>
-	</translation>
-
-	<!-- Menu -->
-	<translation id="homelang">
-		<bulgarian>Начало</bulgarian>
-	</translation>
-
-	<translation id="aboutlang">
-		<bulgarian>За Нас</bulgarian>
-	</translation>
-
-	<translation id="benefitslang">
-		<bulgarian>Преимущества</bulgarian>
-	</translation>
-
-	<translation id="featureslang">
-		<bulgarian>Характеристики</bulgarian>
-	</translation>
-
-	<translation id="roadmaplang">
-		<bulgarian>Пътна Карта</bulgarian>
-	</translation>
-
-	<translation id="toolslang">
-		<bulgarian>Инструменти</bulgarian>
-	</translation>
-
-	<translation id="gethushlang">
-		<bulgarian>Сдобий се с HUSH!</bulgarian>
-	</translation>
-
-	<translation id="teamlang">
-		<bulgarian>Екип</bulgarian>
-	</translation>
-
-	<translation id="faqlang">
-		<bulgarian>FAQ</bulgarian>
-	</translation>
-
-	<translation id="contactlang">
-		<bulgarian>Контакти</bulgarian>
-	</translation>
-
-	<translation id="trlang">
-		<bulgarian>Език</bulgarian>
-	</translation>
-
-	<!-- Home -->
-	<translation id="hometitlelang">
-		<bulgarian>Разработено от хората, за хората.</bulgarian>
-	</translation>
-
-	<!-- About -->
-	<translation id="sat1lang">
-		<bulgarian>Какво е HUSH?</bulgarian>
-	</translation>
-
-	<translation id="sal1lang">
-		<bulgarian>Hush е частна имплементация на протокола "Zerocash" отделен от [Zcash].</bulgarian>
-	</translation>
-
-	<translation id="sal2lang">
-		<bulgarian>Базиран на кода на Bitcoin, HUSH предоставя много по-висок стандарт на анонимност чрез сложна схема на Нулево-Знание която запазва конфиденциалността на метаданните на всяка трансакция.</bulgarian>
-	</translation>
-
-	<translation id="sat2lang">
-		<bulgarian>Hush Надеждна Конфигурация</bulgarian>
-	</translation>
-
-	<translation id="sal3lang">
-		<bulgarian>Hush Надеждна Конфигурация следва същите настройки предоставени от екипа на Zcash. Ние не разполагаме с ключове за генериране на монети от нищото.</bulgarian>
-	</translation>
-
-	<translation id="sal4lang">
-		<bulgarian>Екипът на Zcash организира церемония на която всички които имаха части от частният ключ го унищожиха.</bulgarian>
-	</translation>
-
-	<translation id="sat3lang">
-		<bulgarian>Защо HUSH?</bulgarian>
-	</translation>
-
-	<translation id="sal5lang">
-		<bulgarian>Вярваме че няма достатъчно крипто валути чиито разработчици да се вслушват в това какво иска общността, и които да са отворени за предложения и дискусии.</bulgarian>
-	</translation>
-
-	<translation id="sal6lang">
-		<bulgarian>Затова вярваме че HUSH ще е успешна валута в дългосрочна перспектива заради комуникацията между общността и разработчиците.</bulgarian>
-	</translation>
-
-	<translation id="sal7lang">
-		<bulgarian>Ние винаги ще обмисляме вашите предложения и идеи ако те ще донесат преимущество на HUSH като валута и като общност.</bulgarian>
-	</translation>
-
-	<translation id="sal8lang">
-		<bulgarian>Крипто валутите са децентрализирани от правителствата по Света, но ако цялата общност не е част от вземането на решенията, това истинска децентрализация ли е?</bulgarian>
-	</translation>
-
-	<translation id="sal9lang">
-		<bulgarian>С HUSH вашият глас Винаги има значение, вашият принос е винаги оценен и сме винаги благодарни за всякакъв вид помощ.</bulgarian>
-	</translation>
-
-	<translation id="sastlang">
-		<bulgarian>Спецификации</bulgarian>
-	</translation>
-
-	<translation id="sas1llang">
-		<bulgarian>Алгоритъм</bulgarian>
-	</translation>
-
-	<translation id="sas2llang">
-		<bulgarian>Време за Блок</bulgarian>
-	</translation>
-
-	<translation id="sas3llang">
-		<bulgarian>Награда от Блок</bulgarian>
-	</translation>
-
-	<translation id="sas4llang">
-		<bulgarian>Корекция на Трудността</bulgarian>
-	</translation>
-
-	<translation id="sas5llang">
-		<bulgarian>Съкращаване на наградата на половина</bulgarian>
-	</translation>
-
-	<translation id="sas6llang">
-		<bulgarian>Общ Брой Монети</bulgarian>
-	</translation>
-
-	<translation id="sas7llang">
-		<bulgarian>Награда за Основателите</bulgarian>
-	</translation>
-
-	<translation id="sas8llang">
-		<bulgarian>Предварително изкопани монети</bulgarian>
-	</translation>
-
-	<translation id="sas9llang">
-		<bulgarian>P2P Порт</bulgarian>
-	</translation>
-
-	<translation id="sas10llang">
-		<bulgarian>RPC Порт</bulgarian>
-	</translation>
-
-	<translation id="sas1rlang">
-		<bulgarian>Equihash</bulgarian>
-	</translation>
-
-	<translation id="sas2rlang">
-		<bulgarian>2.5 минути</bulgarian>
-	</translation>
-
-	<translation id="sas3rlang">
-		<bulgarian>12.5 Hush (12.5 за копача)</bulgarian>
-	</translation>
-
-	<translation id="sas4rlang">
-		<bulgarian>На всеки блок, Digishield V3</bulgarian>
-	</translation>
-
-	<translation id="sas5rlang">
-		<bulgarian>На всеки 4 години (като при Bitcoin)</bulgarian>
-	</translation>
-
-	<translation id="sas6rlang">
-		<bulgarian>21,000,000 (като при Bitcoin)</bulgarian>
-	</translation>
-
-	<translation id="sas7rlang">
-		<bulgarian>Премахната!</bulgarian>
-	</translation>
-
-	<translation id="sas8rlang">
-		<bulgarian>0.578% (121475 Hush)</bulgarian>
-	</translation>
-
-	<translation id="sas9rlang">
-		<bulgarian>8888</bulgarian>
-	</translation>
-
-	<translation id="sas10rlang">
-		<bulgarian>8822</bulgarian>
-	</translation>
-
-	<!-- Benefits -->
-	<translation id="sbenefitsl1lang">
-		<bulgarian>Можете да имате принос към HUSH и да сте част от решенията.</bulgarian>
-	</translation>
-
-	<translation id="sbenefitsl2lang">
-		<bulgarian>Ще има бавен и стабилен напредък, що се отнася до стойността на валутата и стабилността на нейното разработване.</bulgarian>
-	</translation>
-
-	<translation id="sbenefitsl3lang">
-		<bulgarian>Поради малкият брой предварително изкопани монети и фокусираният екип от разработчици, финансирането няма да е проблем.</bulgarian>
-	</translation>
-
-	<!-- Features -->
-	<translation id="sfeaturest1lang">
-		<bulgarian>Отворен Код</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl1lang">
-		<bulgarian>Можете да преглеждате, коментирате и предлагате подобрения.</bulgarian>
-	</translation>
-
-	<translation id="sfeaturest2lang">
-		<bulgarian>Анонимност</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl2lang">
-		<bulgarian>Анонимни плащания и трансакции.</bulgarian>
-	</translation>
-
-	<translation id="sfeaturest3lang">
-		<bulgarian>Децентрализираност</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl3lang">
-		<bulgarian>Използване на Peer to Peer мрежа.</bulgarian>
-	</translation>
-
-	<translation id="sfeaturest4lang">
-		<bulgarian>Сигурност</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl4lang">
-		<bulgarian>Цялостна сигурност и подобрено криптиране.</bulgarian>
-	</translation>
-
-	<translation id="sfeaturest5lang">
-		<bulgarian>Достъпна в Цял Свят</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl5lang">
-		<bulgarian>Изпращане на пари до всеки в света.</bulgarian>
-	</translation>
-
-	<translation id="sfeaturest6lang">
-		<bulgarian>Бързина</bulgarian>
-	</translation>
-
-	<translation id="sfeaturesl6lang">
-		<bulgarian>Мигновени плащания и трансакции.</bulgarian>
-	</translation>
-
-	<!-- Road Map -->
-	<translation id="roadmapbox1lang">
-		<bulgarian>Цялостна миграция към HUSH бранда.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox2lang">
-		<bulgarian>Windows Инсталатор.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox3lang">
-		<bulgarian>Включване на HUSH на повече борси за търговия.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox4lang">
-		<bulgarian>Самостоятелен HUSH Комуникатор (HUSH Messenger).</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox5lang">
-		<bulgarian>Интеграция на IPFS за изпращането на големи съобщения и файлове.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox6lang">
-		<bulgarian>Нов олекотен клиент.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox7lang">
-		<bulgarian>Counterparty върху HUSH - финансиране, активи и умни договори.</bulgarian>
-	</translation>
-
-	<translation id="roadmapbox8lang">
-		<bulgarian>XCAT със Zcash.</bulgarian>
-	</translation>
-
-	<!-- Tools -->
-	<translation id="stoolst1lang">
-		<bulgarian>Linux Портфейл</bulgarian>
-	</translation>
-
-	<translation id="stoolst2lang">
-		<bulgarian>Windows Портфейл</bulgarian>
-	</translation>
-
-	<translation id="stoolst3lang">
-		<bulgarian>Mac OS Портфейл</bulgarian>
-	</translation>
-
-	<translation id="stoolst4lang">
-		<bulgarian>Android Портфейл</bulgarian>
-	</translation>
-
-	<translation id="stoolst5lang">
-		<bulgarian>iOS Портфейл</bulgarian>
-	</translation>
-
-	<translation id="stoolst6lang">
-		<bulgarian>Програмен Код</bulgarian>
-	</translation>
-
-	<translation id="stoolst7lang">
-		<bulgarian>Конфигурационен Генератор</bulgarian>
-	</translation>
-
-	<translation id="stoolst8lang">
-		<bulgarian>Блок Каталог</bulgarian>
-	</translation>
-
-	<translation id="stoolst9lang">
-		<bulgarian>Графики от Coin Market Cap</bulgarian>
-	</translation>
-
-	<translation id="stoolst10lang">
-		<bulgarian>Медиен Пакет</bulgarian>
-	</translation>
-
-	<translation id="stdlang">
-		<bulgarian>Свали</bulgarian>
-	</translation>
-
-	<translation id="stsilang">
-		<bulgarian>Инструкции за настройка</bulgarian>
-	</translation>
-
-	<translation id="stcslang">
-		<bulgarian>Предстои скоро!</bulgarian>
-	</translation>
-
-	<translation id="stnylang">
-		<bulgarian>Все още няма!</bulgarian>
-	</translation>
-
-	<!-- Get Hush -->
-	<translation id="sgethusht1lang">
-		<bulgarian>Като Купиш!</bulgarian>
-	</translation>
-
-	<translation id="sgethusht2lang">
-		<bulgarian>Като Копаеш!</bulgarian>
-	</translation>
-
-	<!-- Team -->
-	<translation id="teamtitlelang">
-		<bulgarian>Нашият страхотен екип!</bulgarian>
-	</translation>
-
-	<translation id="steamt1lang">
-		<bulgarian>Основател &amp; Лидер на Общността</bulgarian>
-	</translation>
-
-	<translation id="steamd1lang">
-		<bulgarian>Аксел е 22 годишен Топло Енергиен Инженер от Стокхолм, Швеция. Занимава се с малък и голям бизнес от както е на 10 годишна възраст.  Аксел се присъедини към Крипто сферата за прив път през 2010-2011 година.</bulgarian>
-	</translation>
-
-	<translation id="steamt2lang">
-		<bulgarian>Главен Разработчик</bulgarian>
-	</translation>
-
-	<translation id="steamd2lang">
-		<bulgarian>Дейвид Мърсър е изучавал математика и компютърни науки в Университета на Аризона. Занимавал се е с финансова криптография 15 години и има над 20 години опит в сферата на Информационните Технологии. Участвал е в разработката на дизайна и програмният код на zcash протокола. Неговият опит преди крипто валутите включва консултански услуги за NASDAQ, IslandECN, BofA, и 3-те най-големи банки в Мексико.</bulgarian>
-	</translation>
-
-	<translation id="steamt3lang">
-		<bulgarian>Основател &amp; Web Разработчик</bulgarian>
-	</translation>
-
-	<translation id="steamd3lang">
-		<bulgarian>Иолар е 29 годишен front-end web разработчик и крипто търговец от Бразилия. Той има повече от 15 години опит в сферата на разработката на web страници и е работил за няколко агенции и компании включително A Estrutural, Agrobovi, A Foco и Dual Studio.</bulgarian>
-	</translation>
-
-	<translation id="steamt4lang">
-		<bulgarian>Основен разработчик, Инструменти и Форум</bulgarian>
-	</translation>
-
-	<translation id="steamd4lang">
-		<bulgarian>Матю е full-stack web разработчик на свободна практика и крипто ентусиаст от Илинойс. Неговата страст са Сигурността и Автентикацията, и игрите (#PCMasterRace). През деня той е Аналист по Кибер Заплахи.</bulgarian>
-	</translation>
-
-	<!-- Contributors -->
-	<translation id="contributorstitlelang">
-		<bulgarian>Искам да помогна!</bulgarian>
-	</translation>
-
-	<translation id="scontributorsl1lang">
-		<bulgarian>Помощта от общността помага HUSH да остане активен. За да ни помогнете присъединете се към нашият Slack, и прегледайте нашите Github хранилища.</bulgarian>
-	</translation>
-
-	<translation id="scontributorsl2lang">
-		<bulgarian>Даренията поддържат светлините и сървърите включени.</bulgarian>
-	</translation>
-
-	<!-- FAQ -->
-	<translation id="sfaqqt1lang">
-		<bulgarian>Защо предварително изкопани монети?</bulgarian>
-	</translation>
-
-	<translation id="sfaqa1lang">
-		<bulgarian>Защото с предварително изкопани монети ще имаме финансова стабилност на която да се опрем. Ще можем да предоставяме награди за хората които ни помагат в развитието на валутата.</bulgarian>
-	</translation>
-
-	<translation id="sfaqqt2lang">
-		<bulgarian>Ще могат ли да се следят предварително изкопаните монети?</bulgarian>
-	</translation>
-
-	<translation id="sfaqa2lang">
-		<bulgarian>Да, адреса с предварително изкопаните монети ще бъде публичен.</bulgarian>
-	</translation>
-
-	<translation id="sfaqqt3lang">
-		<bulgarian>Как върви прогреса с разработването на HUSH, как да се информирам?</bulgarian>
-	</translation>
-
-	<translation id="sfaqa3c1lang">
-		<bulgarian>Присъединете се към нашият</bulgarian>
-	</translation>
-
-	<translation id="sfaqa3c2lang">
-		<bulgarian>или</bulgarian>
-	</translation>
-
-	<translation id="sfaqa3c3lang">
-		<bulgarian>следете активно нашите</bulgarian>
-	</translation>
-
-	<translation id="sfaqa3c4lang">
-		<bulgarian>и</bulgarian>
-	</translation>
-
-	<translation id="sfaqa3c5lang">
-		<bulgarian>Или ни изпратете Лично Съобщение!</bulgarian>
-	</translation>
-
-	<translation id="sfaqqt4lang">
-		<bulgarian>Как да помогна?</bulgarian>
-	</translation>
-
-	<translation id="sfaqa4lang">
-		<bulgarian>Ако искате да помогнете, свържете се с един от нас и ще обсъдим вашите идеи и как може да допринесете към проекта.</bulgarian>
-	</translation>
-
-	<translation id="sfaqqt5lang">
-		<bulgarian>Как да се свържем с вас и може ли да питаме за всичко?</bulgarian>
-	</translation>
-
-	<translation id="sfc1lang">
-		<bulgarian>Попълвате тази</bulgarian>
-	</translation>
-
-	<translation id="sfc2lang">
-		<bulgarian>форма за контакт</bulgarian>
-	</translation>
-
-	<translation id="sfc3lang">
-		<bulgarian>, да можете да ни питате за всичко свързано с HUSH!</bulgarian>
-	</translation>
-
-	<!-- Contact -->
-	<translation id="contacttitlelang">
-		<bulgarian>Свържи се с нас!</bulgarian>
-	</translation>
-
-	<translation id="scl1llang">
-		<bulgarian>Ако искаш повече информация за проекта, или имаш въпроси към нас, изпрати ни съобщение като попълниш формата отдолу.</bulgarian>
-	</translation>
-
-	<translation id="scl1rlang">
-		<bulgarian>(Ще ти отговорим възможно най-скоро.)</bulgarian>
-	</translation>
-
-	<translation id="scnamelang">
-		<bulgarian>Твоето Име</bulgarian>
-	</translation>
-
-	<translation id="scemaillang">
-		<bulgarian>Твоята Електронна Поща</bulgarian>
-	</translation>
-
-	<translation id="scsubjectlang">
-		<bulgarian>Тема</bulgarian>
-	</translation>
-
-	<translation id="scmessagelang">
-		<bulgarian>Твоето Съобщение</bulgarian>
-	</translation>
-
-	<translation id="scsublang">
-		<bulgarian>Изпрати</bulgarian>
-	</translation>
-
-	<translation id="screqlang">
-		<bulgarian>(задължително поле)</bulgarian>
-	</translation>
-
-	<!-- Footer -->
-	<translation id="copylang">
-		<bulgarian>Hush. Всички права запазени.</bulgarian>
-	</translation>
+	<translation id="loaderlang">Зарежда се...</translation>
+	<translation id="homelang">Начало</translation>
+	<translation id="aboutlang">За Нас</translation>
+	<translation id="benefitslang">Преимущества</translation>
+	<translation id="featureslang">Характеристики</translation>
+	<translation id="roadmaplang">Пътна Карта</translation>
+	<translation id="toolslang">Инструменти</translation>
+	<translation id="gethushlang">Сдобий се с HUSH!</translation>
+	<translation id="teamlang">Екип</translation>
+	<translation id="faqlang">FAQ</translation>
+	<translation id="contactlang">Контакти</translation>
+	<translation id="trlang">Език</translation>
+	<translation id="hometitlelang">Разработено от хората, за хората.</translation>
+	<translation id="sat1lang">Какво е HUSH?</translation>
+	<translation id="sal1lang">Hush е частна имплементация на протокола "Zerocash" отделен от [Zcash].</translation>
+	<translation id="sal2lang">Базиран на кода на Bitcoin, HUSH предоставя много по-висок стандарт на анонимност чрез сложна схема на Нулево-Знание която запазва конфиденциалността на метаданните на всяка трансакция.</translation>
+	<translation id="sat2lang">Hush Надеждна Конфигурация</translation>
+	<translation id="sal3lang">Hush Надеждна Конфигурация следва същите настройки предоставени от екипа на Zcash. Ние не разполагаме с ключове за генериране на монети от нищото.</translation>
+	<translation id="sal4lang">Екипът на Zcash организира церемония на която всички които имаха части от частният ключ го унищожиха.</translation>
+	<translation id="sat3lang">Защо HUSH?</translation>
+	<translation id="sal5lang">Вярваме че няма достатъчно крипто валути чиито разработчици да се вслушват в това какво иска общността, и които да са отворени за предложения и дискусии.</translation>
+	<translation id="sal6lang">Затова вярваме че HUSH ще е успешна валута в дългосрочна перспектива заради комуникацията между общността и разработчиците.</translation>
+	<translation id="sal7lang">Ние винави ще обмисляме вашите предложения и идеи ако те ще донесат преимущество на HUSH като валута и като общност.</translation>
+	<translation id="sal8lang">Крипто валутите са децентрализирани от правителствата по Света, но ако цялата общност не е част от вземането на решенията, това истинска децентрализация ли е?</translation>
+	<translation id="sal9lang">С HUSH вашият глас Винаги има значение, вашият принос е винаги оценен и сме винаги благодарни за всякакъв вид помощ.</translation>
+	<translation id="sastlang">Спецификации</translation>
+	<translation id="sas1llang">Алгоритъм</translation>
+	<translation id="sas2llang">Време за Блок</translation>
+	<translation id="sas3llang">Награда от Блок</translation>
+	<translation id="sas4llang">Корекция на Трудността</translation>
+	<translation id="sas5llang">Съкращаване на наградата на половина</translation>
+	<translation id="sas6llang">Общ Брой Монети</translation>
+	<translation id="sas7llang">Награда за Основателите</translation>
+	<translation id="sas8llang">Предварително изкопани монети</translation>
+	<translation id="sas9llang">P2P Порт</translation>
+	<translation id="sas10llang">RPC Порт</translation>
+	<translation id="sas1rlang">Equihash</translation>
+	<translation id="sas2rlang">2.5 минути</translation>
+	<translation id="sas3rlang">12.5 Hush (12.5 за копача)</translation>
+	<translation id="sas4rlang">На всеки блок, Digishield V3</translation>
+	<translation id="sas5rlang">На всеки 4 години (като при Bitcoin)</translation>
+	<translation id="sas6rlang">21,000,000 (като при Bitcoin)</translation>
+	<translation id="sas7rlang">Премахната!</translation>
+	<translation id="sas8rlang">0.578% (121475 Hush)</translation>
+	<translation id="sas9rlang">8888</translation>
+	<translation id="sas10rlang">8822</translation>
+	<translation id="sbenefitsl1lang">Можете да имате принос към HUSH и да сте част от решенията.</translation>
+	<translation id="sbenefitsl2lang">Ще има бавен и стабилен напредък, що се отнася до стойността на валутата и стабилността на нейното разработване.</translation>
+	<translation id="sbenefitsl3lang">Поради малкият брой предварително изкопани монети и фокусираният екип от разработчици, финансирането няма да е проблем.</translation>
+	<translation id="sfeaturest1lang">Отворен Код</translation>
+	<translation id="sfeaturesl1lang">Можете да преглеждате, коментирате и предлагате подобрения.</translation>
+	<translation id="sfeaturest2lang">Анонимност</translation>
+	<translation id="sfeaturesl2lang">Анонимни плащания и трансакции.</translation>
+	<translation id="sfeaturest3lang">Децентрализираност</translation>
+	<translation id="sfeaturesl3lang">Използване на Peer to Peer мрежа.</translation>
+	<translation id="sfeaturest4lang">Сигурност</translation>
+	<translation id="sfeaturesl4lang">Цялостна сигурност и подобрено криптиране.</translation>
+	<translation id="sfeaturest5lang">Достъпна в Цял Свят</translation>
+	<translation id="sfeaturesl5lang">Изпращане на пари до всеки в света.</translation>
+	<translation id="sfeaturest6lang">Бързина</translation>
+	<translation id="sfeaturesl6lang">Мигновени плащания и трансакции.</translation>
+	<translation id="roadmapbox1lang">Цялостна миграция към HUSH бранда.</translation>
+	<translation id="roadmapbox2lang">Windows Инсталатор.</translation>
+	<translation id="roadmapbox3lang">Включване на HUSH на повече борси за търговия.</translation>
+	<translation id="roadmapbox4lang">Самостоятелен HUSH Комуникатор (HUSH Messenger).</translation>
+	<translation id="roadmapbox5lang">Интеграция на IPFS за изпращането на големи съобщения и файлове.</translation>
+	<translation id="roadmapbox6lang">Нов олекотен клиент.</translation>
+	<translation id="roadmapbox7lang">Counterparty върху HUSH - финансиране, активи и умни договори.</translation>
+	<translation id="roadmapbox8lang">XCAT със Zcash.</translation>
+	<translation id="stoolst1lang">Linux Портфейл</translation>
+	<translation id="stoolst2lang">Windows Портфейл</translation>
+	<translation id="stoolst3lang">Mac OS Портфейл</translation>
+	<translation id="stoolst4lang">Android Портфейл</translation>
+	<translation id="stoolst5lang">iOS Портфейл</translation>
+	<translation id="stoolst6lang">Програмен Код</translation>
+	<translation id="stoolst7lang">Конфигурационен Генератор</translation>
+	<translation id="stoolst8lang">Блок Каталог</translation>
+	<translation id="stoolst9lang">Графики от Coin Market Cap</translation>
+	<translation id="stoolst10lang">Медиен Пакет</translation>
+	<translation id="stdlang">Свали</translation>
+	<translation id="stsilang">Инструкции за настройка</translation>
+	<translation id="stcslang">Предстои скоро!</translation>
+	<translation id="stnylang">Все още няма!</translation>
+	<translation id="sgethusht1lang">Като Купиш!</translation>
+	<translation id="sgethusht2lang">Като Копаеш!</translation>
+	<translation id="teamtitlelang">Нашият страхотен екип!</translation>
+	<translation id="steamt1lang">Основател &amp; Лидер на Общността</translation>
+	<translation id="steamd1lang">Аксел е 22 годишен Топло Енергиен Инженер от Стокхолм, Швеция. Занимава се с малък и голям бизнес от както е на 10 годишна възраст.  Аксел се присъедини към Крипто сферата за прив път през 2010-2011 година.</translation>
+	<translation id="steamt2lang">Главен Разработчик</translation>
+	<translation id="steamd2lang">Дейвид Мърсър е изучавал математика и компютърни науки в Университета на Аризона. Занимавал се е с финансова криптография 15 години и има над 20 години опит в сферата на Информационните Технологии. Участвал е в разработката на дизайна и програмният код на zcash протокола. Неговият опит преди крипто валутите включва консултански услуги за NASDAQ, IslandECN, BofA, и 3-те най-големи банки в Мексико.</translation>
+	<translation id="steamt3lang">Основател &amp; Web Разработчик</translation>
+	<translation id="steamd3lang">Иолар е 29 годишен front-end web разработчик и крипто търговец от Бразилия. Той има повече от 15 години опит в сферата на разработката на web страници и е работил за няколко агенции и компании включително A Estrutural, Agrobovi, A Foco и Dual Studio.</translation>
+	<translation id="steamt4lang">Основен разработчик, Инструменти и Форум</translation>
+	<translation id="steamd4lang">Матю е full-stack web разработчик на свободна практика и крипто ентусиаст от Илинойс. Неговата страст са Сигурността и Автентикацията, и игрите (#PCMasterRace). През деня той е Аналист по Кибер Заплахи.</translation>
+	<translation id="contributorstitlelang">Искам да помогна!</translation>
+	<translation id="scontributorsl1lang">Помощта от общността помага HUSH да остане активен. За да ни помогнете присъединете се към нашият Slack, и прегледайте нашите Github хранилища.</translation>
+	<translation id="scontributorsl2lang">Даренията поддържат светлините и сървърите включени.</translation>
+	<translation id="sfaqqt1lang">Защо предварително изкопани монети?</translation>
+	<translation id="sfaqa1lang">Защото с предварително изкопани монети ще имаме финансова стабилност на която да се опрем. Ще можем да предоставяме награди за хората които ни помагат в развитието на валутата.</translation>
+	<translation id="sfaqqt2lang">Ще могат ли да се следят предварително изкопаните монети?</translation>
+	<translation id="sfaqa2lang">Да, адреса с предварително изкопаните монети ще бъде публичен.</translation>
+	<translation id="sfaqqt3lang">Как върви прогреса с разработването на HUSH, как да се информирам?</translation>
+	<translation id="sfaqa3c1lang">Присъединете се към нашият</translation>
+	<translation id="sfaqa3c2lang">или</translation>
+	<translation id="sfaqa3c3lang">следете активно нашите</translation>
+	<translation id="sfaqa3c4lang">и</translation>
+	<translation id="sfaqa3c5lang">Или ни изпратете Лично Съобщение!</translation>
+	<translation id="sfaqqt4lang">Как да помогна?</translation>
+	<translation id="sfaqa4lang">Ако искате да помогнете, свържете се с един от нас и ще обсъдим вашите идеи и как може да допринесете към проекта.</translation>
+	<translation id="sfaqqt5lang">Как да се свържем с вас и може ли да питаме за всичко?</translation>
+	<translation id="sfc1lang">Попълвате тази</translation>
+	<translation id="sfc2lang">форма за контакт</translation>
+	<translation id="sfc3lang">, да можете да ни питате за всичко свързано с HUSH!</translation>
+	<translation id="contacttitlelang">Свържи се с нас!</translation>
+	<translation id="scl1llang">Ако искаш повече информация за проекта, или имаш въпроси към нас, изпрати ни съобщение като попълниш формата отдолу.</translation>
+	<translation id="scl1rlang">(Ще ти отговорим възможно най-скоро.)</translation>
+	<translation id="scnamelang">Твоето Име</translation>
+	<translation id="scemaillang">Твоята Електронна Поща</translation>
+	<translation id="scsubjectlang">Тема</translation>
+	<translation id="scmessagelang">Твоето Съобщение</translation>
+	<translation id="scsublang">Изпрати</translation>
+	<translation id="screqlang">(задължително поле)</translation>
+	<translation id="copylang">Hush. Всички права запазени.</translation>
 </translations>
